@@ -1,5 +1,7 @@
 # Machine Learning supervisé et non supervisé
 
+**Vidéo de présentation :** https://share.vidyard.com/watch/2GkNV4SgQn2ELeB2K24xKj
+
 Les projets :
 * Walmart
   - `Walmart.ipynb` et le csv du dataset des ventes
