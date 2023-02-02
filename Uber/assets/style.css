@@ -1,0 +1,74 @@
+body {
+  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  /* background-color: #f6f6f6; */
+  color: #eee;
+  padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 1.5em;
+}
+
+.sub-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#map-spot {
+  height: 700px;
+  width: 70%;
+  margin: 0 auto 0 auto;
+}
+
+#hist-spot {
+  width: 70%;
+  height: 300px;
+  margin: 0 auto 0 auto;
+}
+
+#dd-dayofweek {
+  width: 400px;
+  margin: 0 auto 0 auto;
+  display: none;
+}
+
+#tabs-dayofweek {
+  width: 70%;
+  margin: 0 auto 0 auto;
+  height: 50px;
+}
+
+#tabs-dayofweek .tab {
+  background: rgba(78, 93, 108, 0.6);
+  color: #ddd;
+  border: 1px solid var(--bs-body-bg);
+  border-bottom: none;
+  border: none;
+  font-size: 1.05em;
+  padding-top: 12px;
+}
+
+#tabs-dayofweek .tab--selected {
+  background: rgb(78, 93, 108);
+  color: #fff;
+  border-top: 3px solid #ddd !important;
+}
+
+#hour-slider {
+  width: 70%;
+  background: rgb(78, 93, 108);
+  margin: 0 auto 0 auto;
+  padding-top: 30px !important;
+  padding-left: 80px !important;
+  padding-right: 100px !important;
+}
+
+#hour-slider .rc-slider-mark-text {
+  color: #fff;
+}
+.cbcoloraxis {
+  display: none;
+}
