@@ -8,4 +8,4 @@ Les projets :
 * Uber
   - `uber.ipynb`
   - `output/uber-clusters.csv`: fichier de sortie du notebook avec les clusters et coordonnées aggrégées par nombre de courses dans une même zone
-  - `dashviz.py`: Serveur Dash qui affiche les contenu du fichier de sortie. Cf [Uber Readme](/Uber/Readme.md)
+  - `dashviz.py`: serveur Dash qui affiche les contenu du fichier de sortie. Cf [Uber Readme](/Uber/Readme.md)
